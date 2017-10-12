@@ -9,4 +9,4 @@ id exists on every single one but we did not define it
 4. What single line of ruby code can insert a cat with the name "Kira" in the database?
 Cat.create(:name => "Kira")
 5. How did you like this homework in comparison with the previous homeworks?
-much more free to do what I wanted on this one. 
+I LIKE CATS!!
